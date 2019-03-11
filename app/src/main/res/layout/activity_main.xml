@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Blood Bank!"
+        android:text="My Blood Bank!"
         android:textSize="50sp"
         android:layout_gravity="center"
         />
@@ -27,10 +27,6 @@
         android:layout_marginVertical="20sp"
         android:text="Bank Mangement"
         android:textSize="30sp"/>
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="User in need"
-        android:textSize="30sp"/>
+  
 
 </LinearLayout>
